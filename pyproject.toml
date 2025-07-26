@@ -1,0 +1,10 @@
+[project]
+name = "CodedAgent_Workshop"
+version = "0.0.1"
+description = "CodedAgent_Workshop"
+authors = [{ name = "Suraj Mishra", email = "misrasuraj11@gmail.com" }]
+dependencies = [
+    "uipath-langchain>=0.0.106",
+    "langchain-anthropic>=0.3.8",
+]
+requires-python = ">=3.10"
